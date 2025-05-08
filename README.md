@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tiến Sinh (@luongtiensinh)
+# 👋 Hi there, I'm Nguyen Luong Tien (@luongtiensinh)
 
 ## 👀 I’m interested in:
 - Game Development with Unity 🎮
