@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Nguyen Luong Tien (@luongtiensinh)
 
 ## 👀 I’m interested in:
-- Game Development with Unity 🎮
+- Deverloper mobile (java and kotlin)
 - Web development (Frontend & Backend)
 - Automation & AI
-- UI/UX Design
+
 
 ## 🌱 I’m currently learning:
 - Python  
-- Unity (C# game development)
+- Andriod studial (java and kotlin)
 - English (to communicate better and access more resources)
 - ReactJS, Node.js, and Tailwind CSS
 
 ## 💞️ I’m looking to collaborate on:
-- Game projects using Unity
+- Developer mobile
 - Web applications
 - Automation tools with Python or C#
 
@@ -25,7 +25,6 @@
 - He/Him (Anh ấy)
 
 ## ⚡ Fun fact:
-> My first game character had no animation, but I was still proud of it! 😄  
 > I’m learning Unity one bug at a time 🚀
 
 <!---
