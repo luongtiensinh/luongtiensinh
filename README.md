@@ -15,7 +15,7 @@
 ## 💞️ I’m looking to collaborate on:
 - Developer mobile
 - Web applications
-- Automation tools with Python or C#
+- Automation tools with Python or Java 
 
 ## 📫 How to reach me:
 - Email: tien12clash@gmail.com
