@@ -1,33 +1,36 @@
-# 👋 Hi there, I'm Nguyen Luong Tien (@luongtiensinh)
+###👋 Hello, I'm Nguyen Luong Tien
+##📱 Android Developer | Kotlin Enthusiast
 
-## 👀 I’m interested in:
-- Deverloper mobile (java and kotlin)
-- Web development (Frontend & Backend)
-- Automation & AI
+#I am an aspiring Android Developer focused on building modern, scalable mobile applications using Kotlin and the latest Android technologies. I am continuously improving my skills to follow best practices and industry standards.
 
+##🚀 Core Focus
+##📱 Native Android Development (Kotlin, Java)
+##🧩 Modern UI with Jetpack Compose
+##🏗️ Clean Architecture & MVVM
+##🔗 RESTful API integration
+##⚙️ App performance optimization
+##🛠️ Tech Stack
+#Languages: Kotlin, Java
+#UI: Jetpack Compose, XML (Legacy)
+#Architecture: MVVM, Repository Pattern
+#Tools: Android Studio, Git, Firebase
+#Backend (Basic): Node.js, REST API
+#Others: Python (Automation), ReactJS (Basic)
+##📚 Currently Learning
+#Advanced Jetpack Compose (State, Navigation, Animation)
+#Dependency Injection (Hilt)
+#Clean Architecture in real-world projects
+#Improving English for better collaboration
+#🤝 Collaboration
 
-## 🌱 I’m currently learning:
-- Python  
-- Andriod studial (java and kotlin)
-- English (to communicate better and access more resources)
-- ReactJS, Node.js, and Tailwind CSS
+#I’m open to collaborating on:
 
-## 💞️ I’m looking to collaborate on:
-- Developer mobile
-- Web applications
-- Automation tools with Python or Java 
+#Android applications (Kotlin / Compose)
+#Mobile UI/UX implementation
+#Small to medium real-world projects
+#📫 Contact
+#📧 Email: tien12clash@gmail.com
+#💻 GitHub: https://github.com/luongtiensinh
+#⚡ Fun Fact
 
-## 📫 How to reach me:
-- Email: tien12clash@gmail.com
-- GitHub: [@luongtiensinh](https://github.com/luongtiensinh)
-
-## 😄 Pronouns:
-- He/Him (Anh ấy)
-
-## ⚡ Fun fact:
-> I’m learning Unity one bug at a time 🚀
-
-<!---
-luongtiensinh/luongtiensinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#I build Android apps and fix bugs... then create new ones 😄
